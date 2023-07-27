@@ -20,9 +20,8 @@ A backbone for your coding challenge.
   
 ### Frontend
 
-- Vue 3
-- Typescript
-- Vite
+- React
+- Typescript 
 
 ### Misc
 
