@@ -40,7 +40,7 @@ A backbone for your coding challenge.
 npm install
 npm run build # both Java/Spring Boot backend and Vue frontend
 npm run build:backend # only Java/Spring Boot backend
-npm run build:frontend # only Vue frontend
+npm run build:frontend # only React frontend
 ```
 
 4. Start your app.
@@ -49,7 +49,7 @@ npm run build:frontend # only Vue frontend
 npm install
 npm run start # both Java/Spring Boot backend and Vue frontend
 npm run start:backend # only Java/Spring Boot backend
-npm run start:frontend # only Vue frontend
+npm run start:frontend # only React frontend
 ```
 
 5. Run the Cypress tests.
