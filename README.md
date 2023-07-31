@@ -5,7 +5,7 @@ A backbone for your coding challenge.
 ## Contents
 
 - [Backend service](app-backend) - a Java/Spring Boot service with a `/ping` endpoint. Extend with your code.
-- [Frontend app](app-frontend) - a Vue 3/TS/Vite app. Extend with your code.
+- [Frontend app](app-frontend) - a React app. Extend with your code.
 - [E2E test suites](cypress/integration) - a backend and a frontend Cypress test suites. Extend with your tests.
 - [Pipeline](.github/workflows/tests.yml) - a test Runner that executes the Cypress tests on push to a branch other than `master`/`main`.
 
